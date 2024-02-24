@@ -30,6 +30,7 @@ Here's a recap of your accomplishments:
 - You created a branch, a commit, and a pull request.
 - You merged a pull request.
 - You made your first contribution! :tada:
+- Yay, I am editing a readme.md file now!
 
 ### What's next?
 
